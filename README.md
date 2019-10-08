@@ -2,4 +2,4 @@
 part of exercise
 hi
 
-This is Hema. I am addign few lines to make soem changes followed by commit.
+This is Hema. I am adding few lines to make some changes followed by commit.
